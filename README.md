@@ -1,2 +1,0 @@
-# Assignment
-Programming in java
